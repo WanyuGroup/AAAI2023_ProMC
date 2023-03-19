@@ -206,7 +206,6 @@ def main(args):
             reset_array()
 
         print('Cross_Validation: {},batches acc:{}'.format(i + 1,accuracy_meta_test))
-        print('*********Meta-Test_Mean Accuracy: {}*******'.format(np.mean(accuracy_meta_test)))
         mean_accuracy_meta_test.append(np.mean(accuracy_meta_test))
         accuracy_meta_test = []
 
