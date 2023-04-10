@@ -1,6 +1,6 @@
 # This repo covers the implementation for our paper ProMC
 
-Zhenzhong Wang, Lulu Cao, Wanyu Lin, Jiang Min, and Kaychen Tan. "Robust Graph Meta Learning via Manifold Calibration with Proxy Subgraphs," in the Proceedings of the Thirty-Seventh Conference on Association for the Advancement of Artificial Intelligence (AAAI), Washington DC, USA, Feburary 7-14, 2023.
+Zhenzhong Wang, Lulu Cao, Wanyu Lin, Min Jiang, and Kaychen Tan. "Robust Graph Meta Learning via Manifold Calibration with Proxy Subgraphs," in the Proceedings of the Thirty-Seventh Conference on Association for the Advancement of Artificial Intelligence (AAAI), Washington DC, USA, Feburary 7-14, 2023.
 
 Dependencies
 -----
